@@ -18,6 +18,10 @@ namespace roma
                 Console.WriteLine("no sos crack");
 
             }
+            else
+            {
+                Console.WriteLine("sos crack");
+            }
         }
     }
 }
