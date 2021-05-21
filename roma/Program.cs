@@ -16,6 +16,7 @@ namespace roma
             if (mordofeo == true)
             {
                 Console.WriteLine("no sos crack");
+                Console.WriteLine("Mondongo En Bolsa");
 
             }
         }
