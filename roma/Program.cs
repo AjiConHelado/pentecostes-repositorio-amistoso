@@ -12,6 +12,12 @@ namespace roma
         {
             Console.WriteLine("fetuccine");
             Console.WriteLine("bolognesa");
+            bool mordofeo = true;
+            if (mordofeo == true)
+            {
+                Console.WriteLine("no sos crack");
+
+            }
         }
     }
 }
