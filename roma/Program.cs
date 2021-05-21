@@ -17,7 +17,7 @@ namespace roma
             {
                 Console.WriteLine("no sos crack");
                 Console.WriteLine("Mondongo En caja");
-
+                Console.WriteLine("sexo transoceanico");
             }
         }
     }
